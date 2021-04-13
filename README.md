@@ -48,17 +48,17 @@ A continuacion se realizan unas consideraciones para ejecutar y usar el API loca
 BD Mysql,  JDK 8 o Mayor, IDE IntelliJ u otro que permita importar y configurar los archivos:   
 
 ```pom.xml```
-<b> - </b>
+<p> - </p>
 ```aplication.properties```
 
-<b>Clonar el repositorio y ejecuatr en el raiz del proyecto el comando </b>
+<p>Clonar el repositorio y ejecuatr en el raiz del proyecto el comando </p>
 
 ```mvn install```
-<b>Crear una Base de datos en MySql con el nombre de:</b>
+<p>Crear una Base de datos en MySql con el nombre de:</p>
 ```ecomerce```
-<b>Importar el archivo</b>  
+<p>Importar el archivo</p>  
 ```BD_ecommerce_TUL.sql```
-<b>Correr la aplicacion con Spring Boot App</b>
+<p>Correr la aplicacion con Spring Boot App</p>
 ```La aplicacion correra por defecto en el puerto 8080```
 
 
