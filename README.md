@@ -1,6 +1,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 <p style="text-align:justify">
-  <h3 align="center">e-comerce test TUL </h3>
+  <h3 align="center">E-COMMERCE TEST TUL </h3>
   <p>
     Entregable del test e-comerce, desarrollo de API REST en el lenguaje de programación Java; de acuerdo a los requerimientos técnicos. 
   </p>
