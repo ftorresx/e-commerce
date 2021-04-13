@@ -52,12 +52,10 @@ JDK 8 o Mayor, IDE IntelliJ u otro que permita importar y configurar los archivo
 ## Uso
 Considerar comprobar el funcionamiento con una herramienta como Postman o Similar para realizar la Peticiones POST y/o GET
 
-<b>Caso de Uso Obtener coordenadas dado distancia de 3 satelites </b> 
+<b>Para obtener los productos: </b> 
 
 URL Local Metodo GET:
 ```http://localhost:8080/api/product/ ```
-
-Para obtener los productos:
 
 <b>Ejemplo de la respuesta</b> 
 ```
