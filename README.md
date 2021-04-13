@@ -32,7 +32,7 @@ sugerido los siguientes modulos:
 
 
 ### Construido Con
-Esta API fue contruida con el modulo Spring-Boot del Eco-Sistema o Framework Spring que permite ligera y rapidamente desplegar implicitament con TomCat los casos de usos dispuestos; Usando los principios S.O.L.I.D con el lenguaje de programación Java. 
+Esta API fue contruida con el modulo Spring-Boot del Eco-Sistema o Framework Spring que permite ligera y rapidamente desplegar implicitament con TomCat los casos de usos dispuestos; Usando los principios S.O.L.I.D con el lenguaje de programación Java, como Build se uso Maven Version 3.8. 
 * [Spring Boot](https://spring.io/)
 * [Java](https://www.java.com/es/)
 * [S.O.L.I.D](https://profile.es/blog/principios-solid-desarrollo-software-calidad/)
