@@ -33,6 +33,7 @@ sugerido los siguientes modulos:
 
 ### Construido Con
 Esta API fue contruida con el modulo Spring-Boot del Eco-Sistema o Framework Spring que permite ligera y rapidamente desplegar implicitament con TomCat los casos de usos dispuestos; Usando los principios S.O.L.I.D con el lenguaje de programación Java, como Build se uso Maven Version 3.8. 
+* [MySql](https://www.mysql.com/)
 * [Spring Boot](https://spring.io/)
 * [Java](https://www.java.com/es/)
 * [S.O.L.I.D](https://profile.es/blog/principios-solid-desarrollo-software-calidad/)
@@ -44,10 +45,21 @@ A continuacion se realizan unas consideraciones para ejecutar y usar el API loca
 
 ### Pre-Requisitos e Instalación Local
 
-JDK 8 o Mayor, IDE IntelliJ u otro que permita importar y configurar los archivos:   
+BD Mysql,  JDK 8 o Mayor, IDE IntelliJ u otro que permita importar y configurar los archivos:   
 
 ```pom.xml```
 ```aplication.properties```
+
+Clonar el repositorio y ejecuatr en el raiz del proyecto el comando 
+
+```mvn install```
+Crear una Base de datos en MySql con el nombre de:
+```ecomerce```
+Importar el archivo  
+```BD_ecommerce_TUL.sql```
+Correr la aplicacion con Spring Boot App
+```La aplicacion correra por defecto en el puerto 8080```
+
 
 ## Uso
 Considerar comprobar el funcionamiento con una herramienta como Postman o Similar para realizar la Peticiones POST y/o GET
