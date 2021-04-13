@@ -135,7 +135,7 @@ Ejemplo de la respuesta:
 
 <b>Lista de todos los productos de un carrito </b> 
 
-URL Local :
+URL Local Metodo GET:
 ```http://localhost:8080/api/cart/?token=f4c3c2e9-f82a-4137-a174-de197428cd8b```
 
 
@@ -163,7 +163,7 @@ Ejemplo de la respuesta:
 
 <b>Agregar productos al carrito carrito </b> 
 
-URL Local :
+URL Local Metodo POST:
 ```http://localhost:8080/api/cart/add?token=f4c3c2e9-f82a-4137-a174-de197428cd8b```
 
 
