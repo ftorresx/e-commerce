@@ -1,4 +1,4 @@
-package com.webtutsplus.ecommerce;
+package com.tut.ecommerce;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
